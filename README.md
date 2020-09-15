@@ -1,6 +1,6 @@
-# GPX Generator for Pokemon Go
+# GPX Generator
 
-Very simple and probably terribly coded GPX generator for Pokemon Go.
+Very simple and probably terribly coded C++ GPX generator
 
 ### How to use
 
