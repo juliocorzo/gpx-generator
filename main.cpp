@@ -31,7 +31,7 @@ void generateGPX(vector<Coordinates> &c) {
 
     string code;
     code += R"(<?xml version="1.0" encoding="UTF-8"?>)"; code += "\n";
-    code += R"(<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">)"; code += "\n";
+    code += R"(<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="gpx-generator">)"; code += "\n";
     code += R"( <trk>)"; code += "\n";
     code += R"(     <name>0</name>)"; code += "\n";
     code += R"(     <trkseg>)"; code += "\n";
